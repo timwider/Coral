@@ -1,1 +1,3 @@
-"# Coral - an app to manage memberships " 
+# Coral - an app to manage memberships.
+
+

@@ -14,4 +14,4 @@
 - ViewPager 2
 - Single-Activity
 
-<img src="screenshot_frame_1.png" alt="screenshot_1" style="width:350px;"/> <img src="screenshot_frame_2.png" alt="screenshot_2" style="width:350px;"/> <img src="screenshot_date_picked_right.png" alt="screenshot_3" style="width:350px;"/> <img src="screenshot_3_date_entered.png" alt="screenshot_4" style="width:350px;"/>
+<img src="screenshot_frame_1.png" alt="screenshot_1" style="width:350px;"/> <img src="screenshot_frame_2.png" alt="screenshot_2" style="width:350px;"/> <img src="screenshot_date_picked_right.png" alt="screenshot_3" style="width:350px;"/> <img src="screenshot_3_date_entered.png" alt="screenshot_4" style="width:350px;"/> <img src="screenshot_4_history.png" alt="screenshot_4" style="width:350px;"/>

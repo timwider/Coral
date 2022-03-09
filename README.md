@@ -1,6 +1,6 @@
 # Coral - an app to manage memberships.
 
-**App language**: Russian
+**App language**: Russian    
 **With Coral, you can**:
 - add / update / delete members
 - call member or open whatsapp conversation 

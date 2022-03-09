@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Coral</string>
+
+    <string name="details_et_days_left">Тренировок осталось: %1$d</string>
+    <string name="details_tv_last_payment_date">Последняя оплата: %1$s</string>
+    <string name="details_tv_last_payment_sum">Сумма: %1$s</string>
+
+    <string name="details_tv_last_payment_date_empty">Последняя оплата не указана</string>
+    <string name="details_tv_last_payment_sum_empty">Последняя сумма не указана</string>
+
+    <string name="details_message_no_days_left">Тренировки по абонементу закончились. Добавьте оплату или отредактируйте значение.</string>
+
+    <string name="details_message_no_phone_provided">Номер телефона не указан.</string>
+
+    <string name="et_helper_text_payment_date">Дата оплаты: %1$s</string>
+
+    <string name="dialog_title_delete_member">Удалить абонемент?</string>
+    <string name="dialog_message_delete_member">"Вы уверены,что хотите удалить абонемент? Восстановить его будет невозможно."</string>
+    <string name="dialog_positive_button_text">Да</string>
+    <string name="dialog_negative_button_text">Отменить</string>
+
+    <string name="tab_first_text">Текущий месяц</string>
+    <string name="tab_second_text">История</string>
+
+    <string name="date_picker_positive_button">Выбрать</string>
+    <string name="date_picker_negative_button">Отменить</string>
+
+
+</resources>

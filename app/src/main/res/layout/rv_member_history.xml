@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <androidx.cardview.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/member_history_card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardElevation="5dp"
+        app:cardCornerRadius="3dp"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:padding="5dp"
+            android:background="@drawable/card_rv_member"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/member_details_card_payment_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Оплата: 18 февраля 2022."
+                android:drawableStart="@drawable/ic_last_payment_details"
+                style="@style/TextViewCardDetailsRegular"
+                android:padding="5dp"
+                android:drawablePadding="5dp"/>
+
+            <TextView
+                android:id="@+id/member_details_card_payment_sum"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Сумма: 10.000р"
+                android:drawableStart="@drawable/ic_last_payment_details_sum"
+                style="@style/TextViewCardDetailsRegular"
+                android:padding="5dp"
+                android:drawablePadding="5dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Даты тренировок"
+                android:textAlignment="center"
+                style="@style/TextViewCardDetailsRegular"
+                android:padding="5dp"/>
+
+            <TextView
+                android:id="@+id/member_details_card_workouts"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dp"
+                android:lineSpacingExtra="4dp"
+                android:text="19 февраля\n22 февраля\n24 февраля\n28 февраля\n1 марта\n4 марта\n7 марта\n10 марта"
+                style="@style/TextViewCardDetailsRegular"
+                android:textAlignment="center"/>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>

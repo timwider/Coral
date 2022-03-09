@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/drawable/card_rv_member.xml" value="0.161" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/drawable/card_rv_member_workout.xml" value="0.161" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/drawable/custom_bottom_sheet.xml" value="0.1535" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/drawable/ic_add.xml" value="0.1535" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/drawable/ic_call.xml" value="0.161" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/drawable/ic_days_left_details.xml" value="0.161" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/drawable/ic_delete.xml" value="0.161" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/drawable/ic_last_payment_details.xml" value="0.1535" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/drawable/ic_last_payment_details_sum.xml" value="0.161" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/drawable/ic_person_grey.xml" value="0.161" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/drawable/ic_save.xml" value="0.1535" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/drawable/ic_whatsapp.xml" value="0.139" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/drawable/rv_workouts_shape.xml" value="0.161" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/layout/add_new_member_fragment.xml" value="0.2" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/layout/bottom_sheet_add_member.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/layout/demo_holder_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/layout/first_demo_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/layout/fragment_edit_or_add_payment.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/layout/fragment_member_details.xml" value="0.22" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/layout/fragment_member_details_history.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/layout/fragment_member_note.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/layout/rv_member.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/layout/rv_member_history.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/layout/rv_workouts.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/layout/second_demo_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/menu/home_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/menu/member_details_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/menu/menu_member_details.xml" value="0.33" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/menu/menu_member_details_history.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Coral/app/src/main/res/mipmap-anydpi-v26/ic_main.xml" value="0.17" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
